@@ -17,3 +17,20 @@
     }
 
 }
+
+.logo-footer {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+
+    color: $primary-white-color;
+
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.18;
+
+    .accent {
+        color: $accent-color;
+    }
+}
