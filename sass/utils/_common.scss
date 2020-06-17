@@ -1,8 +1,11 @@
-body {
-    background-color: var(--primary-white-color);
-    color: var(--primary-text-color);
+// Общие стили
 
-    font-family: 'Roboto', sans-serif;
+
+body {
+    background-color: $primary-white-color;
+    color: $primary-text-color;
+
+    font-family: $main-font;
     letter-spacing: 0.03em;
 }
 

@@ -1,11 +1,13 @@
+  // Основная палитра
+
   $primary-text-color: #757575;
   $title-text-color: #212121;
   $accent-color: #2196f3;
   $primary-white-color: #ffffff;
   $secondary-white-color: rgba(255,
-      255,
-      255,
-      0.6);
+    255,
+    255,
+    0.6);
   /*белый полупрозрачный в футере в адресе*/
   $primary-black-color: #000000;
   $bg-subtitle-color: rgba(47, 48, 58, 0.8);
@@ -13,3 +15,11 @@
   $author-color: rgba(255, 255, 255, 0.4);
   /*мелкая подпись в самом низу*/
   $bg-footer-color: #2f303a;
+
+
+  // Шрифты
+
+  $main-font: 'Roboto',
+  sans-serif;
+  $logo-font: 'Raleway',
+  sans-serif;
